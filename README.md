@@ -49,6 +49,17 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 * Rationale: This cluseter includes high-value, very frequent buyers, many of whom are still actively purchasing. They are your most loyal customers and rewarding thier loyalty is key to maintaining their engagement.
 * Action: Implement a robust loyalty program, provide exclusive offers and recognize their loyalty to keep them engaged and satisfied.
 
+
+
+![](https://github.com/itsmearafik/online_retail_data_clustering/blob/main/assets/clean_data_hist_visual_1.png)
+
+<br>
+
+Outlier Data points.
+
+![](https://github.com/itsmearafik/online_retail_data_clustering/blob/main/assets/clean_data_outlier_box_plot_visual.png)
+
+
 ### Summary of Cluster Names
 
 * Cluster 0 (Blue): "Retain"
@@ -56,7 +67,7 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 * Cluster 2 (Green): "Nurture"
 * Cluster 3 (Red): "Reward"
 
-![Alt text](image_url)
+![](https://github.com/itsmearafik/online_retail_data_clustering/blob/main/assets/customer_data_cluster_scatter_plot_visual.png)
 
 ## Key Insights
 
@@ -70,6 +81,8 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 
 * Cluster -3 (Monetary & Frequency Outliers) `Delight`: characteristics - the most valuable outliers, with extreme spending and frequent purchases. They are likely your top-tier customers who require special attentioin.
     Potential strategy: develop VIP programs or exclusive offers to maintain their loyalty and encourage continued engagement.
+
+![](https://github.com/itsmearafik/online_retail_data_clustering/blob/main/assets/final_customer_segment_visual.png)
 
 ## How to Use
 
